@@ -1,7 +1,3 @@
-Alright — imagine you're 8 years old. Here's the explanation:
-
----
-
 ### 🧠 What is a programming language?
 
 A **programming language** is like a way to **talk to computers**.
